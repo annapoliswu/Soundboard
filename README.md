@@ -2,6 +2,9 @@
 ## Share your sounds
 SoundBoard is an app designed for sound designers and audio enthusiasts alike. Upload sounds you create to share with other users. Organize your audio through our collection and tagging system.
 
+[![Soundboard demo](https://img.youtube.com/vi/-Zply3ak25A&t=2s/0.jpg)](https://www.youtube.com/watch?v=-Zply3ak25A&t=2s)
+
+
 ### Team
 This project was created for CS 165: Smartphone Programming at Dartmouth College by Mira, Xuedan, Anna, and Trevor
 
