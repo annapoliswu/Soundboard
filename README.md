@@ -2,7 +2,7 @@
 ## Share your sounds
 SoundBoard is an app designed for sound designers and audio enthusiasts alike. Upload sounds you create to share with other users. Organize your audio through our collection and tagging system.
 
-[![Soundboard demo](https://img.youtube.com/vi/-Zply3ak25A&t=2s/0.jpg)](https://www.youtube.com/watch?v=-Zply3ak25A&t=2s)
+[![Soundboard demo](https://i3.ytimg.com/vi/-Zply3ak25A/maxresdefault.jpg)](https://www.youtube.com/watch?v=-Zply3ak25A&t=2s)
 
 
 ### Team
