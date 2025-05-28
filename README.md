@@ -68,6 +68,3 @@ When posting a soundbyte, users can:
 * Add tags 
 * Post or Cancel
 
-### DEMO Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=-Zply3ak25A&t=2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
